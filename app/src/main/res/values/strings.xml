@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LearnDesign</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="report">My Health Report</string>
+    <string name="record">My Health Record</string>
+    <string name="Prescript">My Prescription</string>
+    <string name="visit">Medical Visit</string>
+    <string name="reminder">Medical Reminder</string>
+    <string name="schedule">Next Schedule</string>
+</resources>

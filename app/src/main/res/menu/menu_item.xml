@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:title="User">
+      <menu android:checkableBehavior="single">
+
+          <item
+              android:title="Home"
+              android:id="@+id/item1"
+              android:icon="@drawable/ic_home"/>
+          <item
+              android:title="Dashboard"
+              android:id="@+id/item2"
+              android:icon="@drawable/ic_dashboard"/>
+          <item
+              android:title="Profile"
+              android:id="@+id/item3"
+              android:icon="@drawable/ic_account"/>
+
+
+
+      </menu>
+
+  </item>
+    <item android:title="App">
+      <menu android:checkableBehavior="single">
+
+
+          <item
+              android:title="Settings"
+              android:id="@+id/item5"
+              android:icon="@drawable/ic_settings"/>
+          <item
+              android:title="Contacts"
+              android:id="@+id/item4"
+              android:icon="@drawable/ic_contacts"/>
+          <item
+              android:title="Logout"
+              android:id="@+id/item6"
+              android:icon="@drawable/ic_logout"/>
+
+      </menu>
+
+  </item>
+
+
+
+</menu>
